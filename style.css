@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header
+{
+    height: 100vh;
+
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #333;
+    text-transform: uppercase;
+    padding-left: 25px;
+    background-color:#fff;
+}
+.navbar-style :hover
+{
+    color:goldenrod;
+}
+.logo
+{
+    height: 48px;
+    padding: 2px 10px;
+}
+.icon-bar
+{
+    background: darkgoldenrod ;
+}
+li a
+{
+    color: #333;
+    font-size: smaller;
+}
+.p1
+{
+    font-size: 50px;
+    margin: 20px 0;
+    color: darkgoldenrod;
+}
+.p2
+{
+    font-size: medium;
+    color: #fff;
+}
+.p3
+{
+    margin-left: 40%;
+    color: darkgoldenrod;
+}
+.p4
+{
+    margin-left: 22%;
+    color: #fff;
+}
+.h11
+{
+    font-size: 65px;
+   color: #fff;
+   margin-top: 25px;
+}
+.h12
+{
+    margin-top: 100px;
+    font-size: 65px;
+   color: #fff;
+}
+.l1
+{
+    width: 250px;
+    height: 250px;
+    margin: 3px;
+    border: 6px double goldenrod;
+}
+.l1:hover
+{
+    width: 230px;
+    height: 230px;
+    box-shadow: 5px 5px 10px #333;
+    filter: brightness(20%);
+}
+a.btn
+{
+margin: 30px 10px;
+width:  150px;
+padding: 10px;
+border-radius: 20px;
+
+
+}
+a.btn-first
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 18%;
+}
+
+a.btn-second
+{
+    background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+}
+
+a.btn:hover
+{
+    background: darkgoldenrod;
+    border: none;
+    color: #fff;
+    box-shadow: 5px 5px 10px black;
+    transition: 0.2s;
+}
+.header
+{
+    background-image:url(../../WEBINAR/pictures/background1.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 100%;
+    background-color: rgba(0,0,0,0.7);
+    background-blend-mode: darken;
+    
+    
+}
+
+
+
+
+/*/home page /*/
+
+.home
+{
+    background-color: #999;
+    color: darkgoldenrod;
+}
+
+
+
+
+
+
+/*/ sports page /*/
+.sports
+{
+    background-color: #999;
+    color: darkgoldenrod;
+}
+.sportsp
+{
+    color:#333;
+    background-color:#999;
+    font-size: 18px;
+    margin-top: 25px;
+    
+    
+}
+.S1
+{
+    height: auto;
+    width: 100%;
+    position: center center;
+}
+.S2
+{
+     height: auto;
+    width: 100%;
+    position: center center;
+}
+.h22
+{
+    color: #fff;
+}
+.h22c
+{
+    color: #fff;
+    margin-left: 15%;
+}
+.S3
+{
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+}
+.S4
+{
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+}
+
+
+
+/*/ gadgets Page  /*/
+
+.gadgets
+{
+    background-color: #999;
+    color: darkgoldenrod;
+}
+a.btn-Gfirst
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 35%;
+margin-top: -2px;
+}
+a.btn-Gsecond
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 29%;
+margin-top: -2px;
+}
+.G1
+{
+    width: 100%;
+    height: 50% ;
+    margin-top: 25px;
+}
+
+/*/ socialmedia page /*/
+.socialmedia
+{
+background-color: #999;
+    color: darkgoldenrod;
+}
+.so11
+{
+    color: transparent;
+
+}
+.SO1{
+width: 75%;
+height: 40%;
+margin-left: 15%;
+margin-top: 50px;
+}
+.sh11
+{
+    font-size: 65px;
+   color: #fff;
+   margin-top: 25px;
+   margin-left: 50px;
+   
+}
+.SO2
+{
+    width: 35%;
+height: 35%;
+margin-left: 150px;
+margin-top: 15px;
+   
+
+}
+a.btn-SOfirst
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 42.7%;
+
+}
+a.btn-SOsecond
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 42.7%;
+
+
+}
+.SO22{
+color: #fff;
+margin-left: 40%;
+
+}
+
+/*/ showbiz /*/
+
+.showbiz
+{
+    background-color: #999;
+    color: darkgoldenrod;
+}
+.SH1
+{
+width: 75%;
+height: 20%;
+margin-left: 15%;
+margin-top: 50px;
+}
+a.btn-SHfirst
+{
+     background: transparent;
+border: 1px solid darkgoldenrod;
+color: #fff;
+margin-left: 43%;
+margin-top: -2px;
+}
+.shvideo
+{
+    width: 100%;
+    height: auto;
+}
